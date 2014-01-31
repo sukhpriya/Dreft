@@ -1,4 +1,4 @@
 Dreft
 =====
 
-Dreft is a JAVA mysql admin tool - Its based on phpmyadmin
+School project. Dreft is a lite simple database table editor.
